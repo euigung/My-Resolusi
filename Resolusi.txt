@@ -5,3 +5,4 @@ RESOLUSIKU
 -Jahit
 -Bekerja
 -Baca buku
+-Tidur
